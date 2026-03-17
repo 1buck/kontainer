@@ -1,4 +1,8 @@
-# Kontainer: Mobile application for Portainer 
+# Kontainer: Mobile application for Portainer
+
+## Features:
+
+- **Multiple instances** Manage multiple portainer instances
 
 ## Download
 <p align="center">
@@ -9,3 +13,7 @@
     <img src="assets/apple.svg" alt="Download from Apple App Store" style="width:150px;"/>
   </a>
 </p>
+
+###
+## Bug report
+If you find any bugs, please report them to us by creating a new issue on our GitHub repository.
